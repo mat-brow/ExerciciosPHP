@@ -1,3 +1,3 @@
 # ExerciciosPHP
 Repositório contendo 10 exercícios de Programação Web II.
-<img src=".png">
+<img src="Ex 1.png">
